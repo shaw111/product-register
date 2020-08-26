@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b6621670-9015-4cc0-8e17-99b233573d76" name="Default Changelist" comment="" />
+    <list default="true" id="b6621670-9015-4cc0-8e17-99b233573d76" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,9 +40,10 @@
       <screen x="3712" y="23" width="1920" height="1057" />
     </state>
     <state x="4380" y="184" width="586" height="735" key="find.popup/0.23.1920.982/3712.23.1920.1057/1920.-17.1792.1097@3712.23.1920.1057" timestamp="1598181273948" />
-    <state x="4338" y="258" width="670" height="676" key="search.everywhere.popup" timestamp="1598181328766">
+    <state x="4338" y="258" width="670" height="676" key="search.everywhere.popup" timestamp="1598192617992">
       <screen x="3712" y="23" width="1920" height="1057" />
     </state>
     <state x="4338" y="258" width="670" height="676" key="search.everywhere.popup/0.23.1920.982/3712.23.1920.1057/1920.-17.1792.1097@3712.23.1920.1057" timestamp="1598181328766" />
+    <state x="4338" y="258" width="670" height="676" key="search.everywhere.popup/0.23.1920.984/3712.23.1920.1057/1920.-17.1792.1097@3712.23.1920.1057" timestamp="1598192617992" />
   </component>
 </project>
