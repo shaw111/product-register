@@ -25,3 +25,6 @@
 
 # Ignore master key for decrypting credentials and more.
 /config/master.key
+
+# Ignore workspace.xml. ( added at 2020/08/29 )
+/**/.idea/workspace.xml
